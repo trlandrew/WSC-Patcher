@@ -1,3 +1,6 @@
+> [!CAUTION]
+> No, I'm not making a revival. This is a notice that anyone can fork OSC's patcher and do anything to it, sell, distribute, modify and more to their version of the patcher, and Open Shop Channel is mad that people are forking their open-source software, when anyone can. If you would like to change that, use another license, or make a custom one, or use the Winamp license.
+
 # WSC-Patcher
 
 WSC-Patcher applies patches to the Wii Shop Channel, such as the ability to use your own servers and certificates.
